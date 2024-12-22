@@ -201,7 +201,6 @@
   <!-- PixelUI -->
   <project path="packages/apps/GameSpace" name="AresOSAOSP/android_packages_apps_GameSpace" remote="p" revision="lineage-22.0" />
   <project path="packages/apps/Personalisation" name="AresOSAOSP/android_packages_apps_Personalisation" remote="p" revision="lineage-22.0" />
-  <project path="packages/services/OmniJaws" name="AresOSAOSP/android_packages_services_OmniJaws" remote="p" revision="lineage-22.0" />
   <project path="packages/apps/LMOFreeform" name="AresOSAOSP/android_packages_apps_LMOFreeform" remote="p" revision="lineage-22.0" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="PixelOS" />
   <project path="vendor/gms" name="vendor_gms" remote="glp" revision="15" />
